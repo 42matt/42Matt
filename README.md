@@ -10,7 +10,7 @@
 
 
 
-#### Codewars for fun: 
+#### Codewars: 
  <a href="https://www.codewars.com/users/42Matt/" target="_blank">
   <img src="https://www.codewars.com/users/42Matt/badges/large" alt="Codewars rank badge" />
  </a>
