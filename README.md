@@ -4,9 +4,7 @@
 <!-- <a href="https://www.mcraft.dev" target="_blank">  -->
  <!-- <img src="https://img.shields.io/badge/My_Website-orange?style=for-the-badge&logo=gatsby&logoColor=white" alt="LinkedIn Badge"/>  -->
  <!-- </a>  -->
-<a href="https://www.linkedin.com/in/mateusz-dziadosz" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a> 
+
 
 </div>
 
